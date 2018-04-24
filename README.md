@@ -9,7 +9,7 @@ Proyecto para la fase final de la materia de Taller de productividad basada en h
 * [Problema identificado](#mi-titulo-a-anclar)
 * [Solución](#mi-titulo-a-anclar)
    * [Bloques de codígo](#mi-titulo-a-anclar)
-    * [Sintaxis Index](#mi-titulo-a-anclar)
+     * [Sintaxis Index](#mi-titulo-a-anclar)
     * [Sintaxis conexión a base de datos](#mi-titulo-a-anclar)
     * [Sintaxis Registro](#mi-titulo-a-anclar)
     * [Sintaxis Alta](#mi-titulo-a-anclar)
