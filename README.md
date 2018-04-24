@@ -192,14 +192,14 @@ catch(Exception e) {
 Es necesario definir la aqrquitectura que se necesita para ejecutar este programa de forma local, por lo que acontinuación se describe cada uno de los elementos necesarios.
 
 * Lenguaje: ***JAVA*** 
-- Es el lenguaje que se utilizo para dearrollar este sistema 
+   - Es el lenguaje que se utilizo para dearrollar este sistema 
 
 * Librerias:
     * ***Java Application Web*** 
-- La libreria que se utilizo para desarrollar los formularios y la interfaz grafica, a travez de JSP´S donde se combinaron dos lenguajes distintos *HTML* y *Java Script*
+      - La libreria que se utilizo para desarrollar los formularios y la interfaz grafica, a travez de JSP´S donde se combinaron dos lenguajes distintos *HTML* y *Java Script*
 
     * ***MySQL Java conector***
-- Es el ejecutable que funcionara como enlace entre *"Java"* y *"MySQL"*
+      - Es el ejecutable que funcionara como enlace entre *"Java"* y *"MySQL"*
 
 * Entorno de desarrollo:***Netbeans 8.2*** 
 - Es la IDE que se utilizo para desarrollar el codigo.
