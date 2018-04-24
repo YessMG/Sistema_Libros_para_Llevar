@@ -215,7 +215,7 @@ Es necesario definir la aqrquitectura que se necesita para ejecutar este program
 
 Para mayor información sobre la arquitectura utilizada para la ejecución del programa o preguntas sobre el desarrollo del codigo favor de  consultar el  siguiente link, para visualizar las lista de preguntas frecuentes: 
 
-[Preguntas frecuentes](https://docs.google.com/document/d/1EJIVHCcKKlkjhVwbJIhLUgzerfxUbKGR-vuAzneSasE/edit?usp=sharing)
+[***Preguntas frecuentes***](https://drive.google.com/file/d/1jAEk357a4lcV6nSy3UDZmk8GNJVLk-Me/view?usp=sharing)
 
 *Nota: dentro de este repositorio en el apartado de wikis encuentra un documento con información sobre el "Sistema Libros pra Llevar", 
 
