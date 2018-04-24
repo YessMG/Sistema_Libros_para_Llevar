@@ -4,7 +4,13 @@ Proyecto para la fase final de la materia de Taller de productividad basada en h
 
 ### Tabla de contenidos 
 
-[texto a mostrar](#mi-titulo-a-anclar)
+[Introduccion](#mi-titulo-a-anclar)
+[Descripción](#mi-titulo-a-anclar)
+[Problema identificado](#mi-titulo-a-anclar)
+[Solución](#mi-titulo-a-anclar)
+[Arquitectura](#mi-titulo-a-anclar)
+[FAQS](#mi-titulo-a-anclar)
+[Referencias](#mi-titulo-a-anclar)
 
 ## Introducción: 
 Este repositorio contine el codigo de un programa de administración del inventario de libros para una pequeña biblioteca *"Libros para Llevar"*.
