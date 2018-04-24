@@ -14,10 +14,12 @@ Este es un programa que utiliza una base de datos **(MySQL)** y un servidor **(A
 
 
 ## Problema identificado:
+La libreria *"Libros para Llevar"*, no cuenta con una conexión a internet estable, ademas de que se encuentra en constante crecimiento, porlo que necesitaban una solución rapida que les permitiera administrar el inventario de sus libros a travéz de un sistema que estubiera de forma local (devido a la conexíon a internet) y que en un futur pudiera mejorarse. 
+
 ## Solución: 
 Para poder desarrollar el programa para la administración del inventario de libros, se desarrollo en funciones  por separado para que al final se interconectaran a travez de la clase principal.
 
-### Sintaxis
+### Bloques de codígo 
 
 **Sintaxis index**
 ```
