@@ -4,7 +4,7 @@ Proyecto para la fase final de la materia de Taller de productividad basada en h
 
 ### Tabla de contenidos 
 
-* [Introduccion](#mi-titulo-a-anclar)
+* [Introducción](#mi-titulo-a-anclar)
 * [Descripción](#mi-titulo-a-anclar)
 * [Problema identificado](#mi-titulo-a-anclar)
 * [Solución](#mi-titulo-a-anclar)
@@ -191,24 +191,23 @@ catch(Exception e) {
 
 Es necesario definir la aqrquitectura que se necesita para ejecutar este programa de forma local, por lo que acontinuación se describe cada uno de los elementos necesarios.
 
-* Lenguaje: ***JAVA*** 
-   - Es el lenguaje que se utilizo para dearrollar este sistema 
+* Lenguaje: [***JAVA***](http://www.oracle.com/technetwork/es/java/javase/downloads/index.html)
+   - Es el lenguaje que se utilizo para dearrollar este sistema / *puede descargarse el JDK  por separado o con el IDE
 
 * Librerias:
-    * ***Java Application Web*** 
+    * [***Java Application Web***](http://plugins.netbeans.org/PluginPortal/)
       - La libreria que se utilizo para desarrollar los formularios y la interfaz grafica, a travez de JSP´S donde se combinaron dos lenguajes distintos *HTML* y *Java Script*
 
-    * ***MySQL Java conector***
+    * [***MySQL Java conector***](https://dev.mysql.com/downloads/connector/j/5.1.html)
       - Es el ejecutable que funcionara como enlace entre *"Java"* y *"MySQL"*
 
-* Entorno de desarrollo:[***Netbeans 8.2***](https://netbeans.org/downloads/?pagelang=pt_BR) 
-   - Es la IDE que se utilizo para desarrollar el codigo.
-   - Nota: Es necesario descargar la versión con JDk
+* Entorno de desarrollo: [***Netbeans 8.2***](https://netbeans.org/downloads/?pagelang=pt_BR) 
+   - Es la IDE que se utilizo para desarrollar el codigo / *Nota: Es necesario descargar la versión con JDk*
 
-* Servidor Local:***apache tomcat 8.4***
+* Servidor Local: [***apache tomcat 8.5***](http://tomcat.apache.org/tomcat-8.5-doc/)
    - El servidor Local utilizado para ejecutar el programa
 
-* Base de datos Local: ***MySQL 8.0***
+* Base de datos Local: [***MySQL 5.2***](https://dev.mysql.com/downloads/)
    - Base de datos local. 
 
 
@@ -218,7 +217,12 @@ Es necesario definir la aqrquitectura que se necesita para ejecutar este program
 
 ### Referencias 
 
-
+https://dev.mysql.com/downloads/connector/j/5.1.html
+https://netbeans.org/downloads/?pagelang=pt_BR 
+http://tomcat.apache.org/tomcat-8.5-doc/
+https://dev.mysql.com/downloads/
+http://plugins.netbeans.org/PluginPortal/
+http://www.oracle.com/technetwork/es/java/javase/downloads/index.html
 
 ### Contribución
 
