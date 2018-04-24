@@ -201,22 +201,28 @@ Es necesario definir la aqrquitectura que se necesita para ejecutar este program
     * ***MySQL Java conector***
       - Es el ejecutable que funcionara como enlace entre *"Java"* y *"MySQL"*
 
-* Entorno de desarrollo:***Netbeans 8.2*** 
-- Es la IDE que se utilizo para desarrollar el codigo.
+* Entorno de desarrollo:[***Netbeans 8.2***](https://netbeans.org/downloads/?pagelang=pt_BR) 
+   - Es la IDE que se utilizo para desarrollar el codigo.
+   - Nota: Es necesario descargar la versión con JDk
 
 * Servidor Local:***apache tomcat 8.4***
-- El servidor Local utilizado para ejecutar el programa
+   - El servidor Local utilizado para ejecutar el programa
 
 * Base de datos Local: ***MySQL 8.0***
-- Base de datos local. 
-
+   - Base de datos local. 
 
 
 ### FAQS 
 
+
+
 ### Referencias 
 
+
+
 ### Contribución
+
+Elaborado por @YessMG 
 
 
 
