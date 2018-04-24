@@ -2,7 +2,7 @@
 
 Proyecto para la fase final de la materia de Taller de productividad basada en herramientas tecnologicas. 
 
-##Tabla de contenidos 
+## Tabla de contenidos 
 
 [texto a mostrar](#mititulo_)
 
@@ -20,6 +20,23 @@ Para poder desarrollar el programa para la administración del inventario de lib
 **Sintaxis **
 
 **Sintaxis conexión Base de datos**
+
+```
+//Bloque de codígo para insertar los registros en la base de datos 
+
+int n = stmt.executeUpdate("INSERT INTO libros VALUES('" + titulo + "', '" + editorial + "', '" + autor + "', '" + paginas + "', '" + genero + "', '" + idioma + "');" );
+    
+    if(n == 1)
+        out.println("Registro válido");
+    else
+        out.println("Registro no válido");
+}
+catch(Exception e) {
+    out.println("Algo malo sucedió. Intentar de nuevo");
+}
+%>
+
+```
 
 **Sintaxis "Alta lIbros"**
 
