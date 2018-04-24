@@ -213,9 +213,12 @@ Es necesario definir la aqrquitectura que se necesita para ejecutar este program
 
 ### FAQS 
 
+Para mayor información sobre la arquitectura utilizada para la ejecución del programa o preguntas sobre el desarrollo del codigo favor de  consultar el  siguiente link, para visualizar las lista de preguntas frecuentes: 
 
 
 ### Referencias 
+
+*Si los enlaces en el punto anterior no funciónan, favor de consultar estos links como sitios de descarga*
 
 https://dev.mysql.com/downloads/connector/j/5.1.html
 https://netbeans.org/downloads/?pagelang=pt_BR 
