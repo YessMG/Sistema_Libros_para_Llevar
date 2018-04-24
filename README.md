@@ -31,7 +31,7 @@ Este es un programa que utiliza una base de datos **(MySQL)** y un servidor **(A
 La libreria *"Libros para Llevar"*, no cuenta con una conexión a internet estable, ademas de que se encuentra en constante crecimiento, porlo que necesitaban una solución rapida que les permitiera administrar el inventario de sus libros a travéz de un sistema que estubiera de forma local (devido a la conexíon a internet) y que en un futur pudiera mejorarse. 
 
 ### Solución: 
-La solución que se planteo fue desarrollar un programa para la administración del inventario de libros el cual fue desarrollado en dos distintos lenguajes **jAVA** Y **HTML**, los cuales se convinaron a travez de **JSP´S** los cuales se dividieron en funcionalidades propias del sistema  para que al final se pudieran interconectaran a travez de la clase principal.
+La solución que se planteo fue desarrollar un programa para la administración del inventario de libros el cual fue desarrollado en dos distintos lenguajes **JAVA** y **HTML**, los cuales se convinaron a travez de *JSP´S* los cuales se dividieron en funcionalidades propias del sistema  para que al final se pudieran interconectaran a travez de la clase principal.
 
 #### Bloques de codígo 
 
@@ -186,7 +186,23 @@ catch(Exception e) {
    }
    ``` 
 
-### Arquitectura: 
+### Arquitectura
+
+Es necesario definir la aqrquitectura que se necesita para ejecutar este programa de forma local, por lo que acontinuación se describe cada uno de los elementos necesarios.
+
+* Lenguaje: ***JAVA*** 
+Es el lenguaje que se utilizo para dearrollar este sistema 
+
+* Librerias:
+    * ***Java Application Web*** 
+La libreria que se utilizo para desarrollar los formularios y la interfaz grafica, a travez de JSP´S donde se combinaron dos lenguajes distintos *HTML* y *Java Script*
+
+    * ***MySQL Java conector***
+* Entorno de desarrollo:***Netbeans 8.2*** 
+* Servidor Local:***apache tomcat 8.4***
+* Base de datos Local: ***8.0***
+
+
 
 ### FAQS 
 
