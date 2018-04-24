@@ -4,7 +4,7 @@ Proyecto para la fase final de la materia de Taller de productividad basada en h
 
 ### Tabla de contenidos 
 
-* Item 1[Introduccion](introducción:)
+* [Introduccion](introducción:)
 * Item 2[Descripción](#mi-titulo-a-anclar)
 * Item 3[Problema identificado](#mi-titulo-a-anclar)
 * Item 4[Solución](#mi-titulo-a-anclar)
