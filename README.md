@@ -8,7 +8,13 @@ Proyecto para la fase final de la materia de Taller de productividad basada en h
 * [Descripción](#mi-titulo-a-anclar)
 * [Problema identificado](#mi-titulo-a-anclar)
 * [Solución](#mi-titulo-a-anclar)
-     * [Solución](#mi-titulo-a-anclar)
+   * [Bloques de codígo](#mi-titulo-a-anclar)
+    * [Sintaxis Index](#mi-titulo-a-anclar)
+    * [Sintaxis conexión a base de datos](#mi-titulo-a-anclar)
+    * [Sintaxis Registro](#mi-titulo-a-anclar)
+    * [Sintaxis Alta](#mi-titulo-a-anclar)
+    * [Sintaxis Baja](#mi-titulo-a-anclar)
+    * [Sintaxis Consulta](#mi-titulo-a-anclar)
 * [Arquitectura](#mi-titulo-a-anclar)
 * [FAQS](#mi-titulo-a-anclar)
 * [Referencias](#mi-titulo-a-anclar)
@@ -180,7 +186,7 @@ catch(Exception e) {
    }
    ``` 
 
-## Arquitectura: 
+### Arquitectura: 
 
 ### FAQS 
 
