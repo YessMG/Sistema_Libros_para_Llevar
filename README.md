@@ -59,6 +59,60 @@ Para poder desarrollar el programa para la administración del inventario de lib
    Connection conexion = DriverManager.getConnection("jdbc:mysql://localhost:3306/inventario","root","160604");
    if (!conexion.isClosed())
    ```
+   
+ **Sintaxis Registro**
+ ```
+ // Bloque de codígo para registrar los libros 
+ 
+        <form action="Alta.jsp" method="post">
+                <table align="center">
+                    <tr>
+                        <td>Titulo:</td>
+                        <td><input type="text" name="titulo" required></td>
+                    </tr>
+                    <tr>
+                        <td>Editorial:</td>
+                        <td><input type="text" name="editorial" required></td>
+                    </tr>
+                    <tr>
+                        <td>Autor:</td>
+                        <td><input type="text" name="autor" required></td>
+                    </tr>
+                    <tr>
+                        <td>Paginas:</td>
+                        <td><input type="text" name="paginas" required></td>
+                    </tr>
+                    <tr>
+                        <td>Genero:</td>
+                        <td><select name="genero" required>
+                        <option value=""></option>
+                        <option value="Ficcion">Ficcion</option>
+                        <option value="Romantico">Romantico</option>
+                        <option value="Juvenil">Juvenil</option>
+                        <option value="Terror">Terror</option>
+                        <option value="Infantil">Infantil</option>
+                        <option value="New Adult">New Adult</option>
+                        <option value="Suspenso">Suspenso</option>
+                        <option value="Historico">Historico</option>
+                            </select></td>
+                    </tr>
+                    <tr>
+                        <td>Idioma:</td>
+                        <td><select name="idioma" required>
+                        <option value=""></option>
+                        <option value="Ingles">Ingles</option>
+                        <option value="Español">Español</option>
+                        <option value="Frances">Frances</option>
+                        <option value="Italiano">Italiano</option>
+                        <option value="Aleman">Aleman</option>
+                        <option value="Otro">Otro</option>
+                            </select></td> 
+                    </tr>
+                    
+                    <tr>
+                    <td></td>
+<td><input type="submit" value="Guardar"></td>
+```
 
 **Sintaxis "Alta lIbros"**
 
