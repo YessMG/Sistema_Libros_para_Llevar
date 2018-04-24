@@ -10,11 +10,11 @@ Proyecto para la fase final de la materia de Taller de productividad basada en h
 * [Solución](#mi-titulo-a-anclar)
    * [Bloques de codígo](#mi-titulo-a-anclar)
      * [Sintaxis Index](#mi-titulo-a-anclar)
-    * [Sintaxis conexión a base de datos](#mi-titulo-a-anclar)
-    * [Sintaxis Registro](#mi-titulo-a-anclar)
-    * [Sintaxis Alta](#mi-titulo-a-anclar)
-    * [Sintaxis Baja](#mi-titulo-a-anclar)
-    * [Sintaxis Consulta](#mi-titulo-a-anclar)
+     * [Sintaxis conexión a base de datos](#mi-titulo-a-anclar)
+     * [Sintaxis Registro](#mi-titulo-a-anclar)
+     * [Sintaxis Alta](#mi-titulo-a-anclar)
+     * [Sintaxis Baja](#mi-titulo-a-anclar)
+     * [Sintaxis Consulta](#mi-titulo-a-anclar)
 * [Arquitectura](#mi-titulo-a-anclar)
 * [FAQS](#mi-titulo-a-anclar)
 * [Referencias](#mi-titulo-a-anclar)
@@ -35,7 +35,7 @@ La solución que se planteo fue desarrollar un programa para la administración 
 
 #### Bloques de codígo 
 
-**Sintaxis index**
+***Sintaxis index***
 ```
 // Bloque de codígo para relacionar todos las funciones 
 
@@ -68,7 +68,7 @@ La solución que se planteo fue desarrollar un programa para la administración 
 </html>
 ```
 
-**Sintaxis conexión Base de datos**
+***Sintaxis conexión Base de datos***
 ```
 // Bloque de codígo para la Conexion con la base de datos 
    Class.forName("org.gjt.mm.mysql.Driver");
@@ -76,7 +76,7 @@ La solución que se planteo fue desarrollar un programa para la administración 
    if (!conexion.isClosed())
    ```
    
- **Sintaxis Registro**
+ ***Sintaxis Registro***
  ```
  // Bloque de codígo para registrar los libros 
  
@@ -130,7 +130,7 @@ La solución que se planteo fue desarrollar un programa para la administración 
 <td><input type="submit" value="Guardar"></td>
 ```
 
-**Sintaxis "Alta lIbros"**
+***Sintaxis "Alta lIbros"***
 
 ```
 //Bloque de codígo para insertar los registros en la base de datos 
@@ -148,7 +148,7 @@ catch(Exception e) {
 %>
 ```
 
-**Sintaxcis "Baja Libros"**
+***Sintaxcis "Baja Libros"***
 
  ```
  int n = stmt.executeUpdate("delete from libros where titulo='" + codigo + "'" );
@@ -161,7 +161,7 @@ catch(Exception e) {
    ```  
         
 
-**Sintaxis "Consulta Libros"**
+***Sintaxis "Consulta Libros"***
 
 ```
 // Bloque de codígo para realizar la consulta en la base de datos
