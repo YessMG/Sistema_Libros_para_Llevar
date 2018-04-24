@@ -4,28 +4,28 @@ Proyecto para la fase final de la materia de Taller de productividad basada en h
 
 ### Tabla de contenidos 
 
-[Introduccion](introducción:)
-[Descripción](#mi-titulo-a-anclar)
-[Problema identificado](#mi-titulo-a-anclar)
-[Solución](#mi-titulo-a-anclar)
-[Arquitectura](#mi-titulo-a-anclar)
-[FAQS](#mi-titulo-a-anclar)
-[Referencias](#mi-titulo-a-anclar)
+* Item 1[Introduccion](introducción:)
+* Item 2[Descripción](#mi-titulo-a-anclar)
+* Item 3[Problema identificado](#mi-titulo-a-anclar)
+* Item 4[Solución](#mi-titulo-a-anclar)
+* Item 5[Arquitectura](#mi-titulo-a-anclar)
+* Item 6[FAQS](#mi-titulo-a-anclar)
+* Item 7[Referencias](#mi-titulo-a-anclar)
 
 ### Introducción: 
 Este repositorio contine el codigo de un programa de administración del inventario de libros para una pequeña biblioteca *"Libros para Llevar"*.
 
-## Descripción: 
+### Descripción: 
 Este es un programa que utiliza una base de datos **(MySQL)** y un servidor **(Apache Tomcat)** de forma local, esta basado en lenguaje **JAVA** y **HTML** *Es un programa construido con JSP´s en Java Application web* y su conexión a la base de datos esta hecha en *Java Script*
 
 
-## Problema identificado:
+### Problema identificado:
 La libreria *"Libros para Llevar"*, no cuenta con una conexión a internet estable, ademas de que se encuentra en constante crecimiento, porlo que necesitaban una solución rapida que les permitiera administrar el inventario de sus libros a travéz de un sistema que estubiera de forma local (devido a la conexíon a internet) y que en un futur pudiera mejorarse. 
 
-## Solución: 
+### Solución: 
 La solución que se planteo fue desarrollar un programa para la administración del inventario de libros el cual fue desarrollado en dos distintos lenguajes **jAVA** Y **HTML**, los cuales se convinaron a travez de **JSP´S** los cuales se dividieron en funcionalidades propias del sistema  para que al final se pudieran interconectaran a travez de la clase principal.
 
-### Bloques de codígo 
+#### Bloques de codígo 
 
 **Sintaxis index**
 ```
@@ -179,6 +179,14 @@ catch(Exception e) {
    ``` 
 
 ## Arquitectura: 
+
+### FAQS 
+
+### Referencias 
+
+### Contribución
+
+
 
 
 
